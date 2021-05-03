@@ -138,9 +138,10 @@ p {
 .about_me {
     margin-top: 100px;
 }
-/* .logo {
-    transform: translateY(10%);
-} */
+.logo {
+    display: block;
+    margin: 0 auto;
+}
 
 
 /*==========================================
