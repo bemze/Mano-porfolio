@@ -356,3 +356,8 @@ window.scrollReveal = (function (window) {
 
   return scrollReveal;
 })(window);
+
+//NAVBAR disapears after click 
+$('.navbar-nav>li>a').on('click', function(){
+  $('.navbar-collapse').collapse('hide');
+});
