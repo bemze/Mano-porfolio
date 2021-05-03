@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    color:#11B674;
+    color:#3B5998;
     font-weight: 700;
 }
 .text-center {
@@ -162,6 +162,10 @@ p {
 .color-pinterest {
      color:#cb2027;
 }
+.color-work {
+     color:#272626;
+}
+
 /* ===========================================================
    BOOTSTRAP ELEMENTS CHANGES   
    ============================================================*/
@@ -198,6 +202,7 @@ color: #FFFFFF;
     text-align: left;
     display: inline-block;
     width: 100%;
+    
 }
 /* ==========================================================================
    SKILL SECTION
@@ -215,6 +220,7 @@ color: #FFFFFF;
 
 #contact-section {
     background-color: #FAFAFA;
+    
 }
 /* ==========================================================================
    FOOTER SECTION
@@ -222,18 +228,14 @@ color: #FFFFFF;
    
 
 #footer {
-    background-color: #5eb0fda9; 
-    color: #fff; 
-    text-align: center; 
-    padding: 10px 30px 10px 30px;
-}
-.luck {
-    display: inline-block;
-  margin-left: 200px;
-  margin-top: 150px;
-  
+       color: #000; 
+    text-align: right; 
     
- 
+     
 }
 
-
+.luck {
+    
+    
+    padding: 10px;
+}

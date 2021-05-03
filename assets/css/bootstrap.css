@@ -288,7 +288,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #428bca;
+  color: #3B5998;
   text-decoration: none;
 }
 a:hover,
@@ -479,6 +479,7 @@ p {
     font-size: 21px;
   }
 }
+
 small,
 .small {
   font-size: 85%;
@@ -3703,6 +3704,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .container-fluid > .navbar-collapse {
     margin-right: 0;
     margin-left: 0;
+    
   }
 }
 .navbar-static-top {
